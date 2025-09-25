@@ -1,0 +1,14 @@
+C:\Users\30097639\source\repos\C#2-SalaryAdjuster\C#2-SalaryAdjuster\bin\Debug\net8.0\C#2-SalaryAdjuster.exe
+C:\Users\30097639\source\repos\C#2-SalaryAdjuster\C#2-SalaryAdjuster\bin\Debug\net8.0\C#2-SalaryAdjuster.deps.json
+C:\Users\30097639\source\repos\C#2-SalaryAdjuster\C#2-SalaryAdjuster\bin\Debug\net8.0\C#2-SalaryAdjuster.runtimeconfig.json
+C:\Users\30097639\source\repos\C#2-SalaryAdjuster\C#2-SalaryAdjuster\bin\Debug\net8.0\C#2-SalaryAdjuster.dll
+C:\Users\30097639\source\repos\C#2-SalaryAdjuster\C#2-SalaryAdjuster\bin\Debug\net8.0\C#2-SalaryAdjuster.pdb
+C:\Users\30097639\source\repos\C#2-SalaryAdjuster\C#2-SalaryAdjuster\obj\Debug\net8.0\C#2-SalaryAdjuster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30097639\source\repos\C#2-SalaryAdjuster\C#2-SalaryAdjuster\obj\Debug\net8.0\C#2-SalaryAdjuster.AssemblyInfoInputs.cache
+C:\Users\30097639\source\repos\C#2-SalaryAdjuster\C#2-SalaryAdjuster\obj\Debug\net8.0\C#2-SalaryAdjuster.AssemblyInfo.cs
+C:\Users\30097639\source\repos\C#2-SalaryAdjuster\C#2-SalaryAdjuster\obj\Debug\net8.0\C#2-SalaryAdjuster.csproj.CoreCompileInputs.cache
+C:\Users\30097639\source\repos\C#2-SalaryAdjuster\C#2-SalaryAdjuster\obj\Debug\net8.0\C#2-SalaryAdjuster.dll
+C:\Users\30097639\source\repos\C#2-SalaryAdjuster\C#2-SalaryAdjuster\obj\Debug\net8.0\refint\C#2-SalaryAdjuster.dll
+C:\Users\30097639\source\repos\C#2-SalaryAdjuster\C#2-SalaryAdjuster\obj\Debug\net8.0\C#2-SalaryAdjuster.pdb
+C:\Users\30097639\source\repos\C#2-SalaryAdjuster\C#2-SalaryAdjuster\obj\Debug\net8.0\C#2-SalaryAdjuster.genruntimeconfig.cache
+C:\Users\30097639\source\repos\C#2-SalaryAdjuster\C#2-SalaryAdjuster\obj\Debug\net8.0\ref\C#2-SalaryAdjuster.dll
