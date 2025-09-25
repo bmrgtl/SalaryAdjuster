@@ -41,12 +41,8 @@ public class Employee
         {
             Console.WriteLine("Please choose between Permanent, Contract, and Intern.");
         }
-        
-
     }
 
- 
-   
 }
 
 public class Program
@@ -78,5 +74,6 @@ public class Program
         }
     }
 }
+
 
 
